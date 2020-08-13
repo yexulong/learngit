@@ -6,4 +6,5 @@ test add
 test pull
 test
 test a
+test b
 test c
